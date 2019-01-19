@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="New UXML.uxml" t="Include" />
+        <e p="Resources" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Audio" t="Include">
+              <e p="SoundManager.cs" t="Include" />
+            </e>
+            <e p="Camera" t="Include">
+              <e p="CameraPlayerController.cs" t="Include" />
+            </e>
+            <e p="CombatSystem" t="Include">
+              <e p="CombatSystem.cs" t="Include" />
+            </e>
+            <e p="CombatSystemManager.cs" t="Include" />
+            <e p="Enemies" t="Include">
+              <e p="Enemy.cs" t="Include" />
+            </e>
+            <e p="Global" t="Include">
+              <e p="ExtenstionMethods.cs" t="Include" />
+              <e p="SpriteOrdering.cs" t="Include" />
+            </e>
+            <e p="InputManager" t="Include">
+              <e p="Joystick.cs" t="Include" />
+            </e>
+            <e p="Interfaces" t="Include">
+              <e p="IBrake.cs" t="Include" />
+              <e p="IClimb.cs" t="Include" />
+              <e p="ICombat.cs" t="Include" />
+              <e p="IDamage.cs" t="Include" />
+              <e p="IDefend.cs" t="Include" />
+              <e p="IDelete.cs" t="Include" />
+              <e p="IDie.cs" t="Include" />
+              <e p="IDodge.cs" t="Include" />
+              <e p="IDrive.cs" t="Include" />
+              <e p="IDrop.cs" t="Include" />
+              <e p="IExit.cs" t="Include" />
+              <e p="IHack.cs" t="Include" />
+              <e p="IKick.cs" t="Include" />
+              <e p="IKill.cs" t="Include" />
+              <e p="Iload.cs" t="Include" />
+              <e p="IMove.cs" t="Include" />
+              <e p="IOpen.cs" t="Include" />
+              <e p="IPickUp.cs" t="Include" />
+              <e p="IPunch.cs" t="Include" />
+              <e p="IRoll.cs" t="Include" />
+              <e p="IRotate.cs" t="Include" />
+              <e p="IRun.cs" t="Include" />
+              <e p="ISave.cs" t="Include" />
+              <e p="IShoot.cs" t="Include" />
+              <e p="ISwitch.cs" t="Include" />
+              <e p="IThrow.cs" t="Include" />
+              <e p="ITurn.cs" t="Include" />
+              <e p="IWalk.cs" t="Include" />
+              <e p="IWrestle.cs" t="Include" />
+            </e>
+            <e p="Item" t="Include">
+              <e p="Health.cs" t="Include" />
+              <e p="IItem.cs" t="Include" />
+              <e p="Item.cs" t="Include" />
+              <e p="Weapon.cs" t="Include" />
+            </e>
+            <e p="Line.cs" t="Include" />
+            <e p="Master.cs" t="Include" />
+            <e p="PlayArea.cs" t="Include" />
+            <e p="Player" t="Include">
+              <e p="CharController.cs" t="Include" />
+              <e p="Humanoid.cs" t="Include" />
+              <e p="Player.cs" t="Include" />
+              <e p="PlayerInteractionManager.cs" t="Include" />
+              <e p="PlayerIsometric.cs" t="Include" />
+              <e p="TriggerArea.cs" t="Include" />
+            </e>
+            <e p="TimeTravel" t="Include">
+              <e p="PointInTime.cs" t="Include" />
+              <e p="RealTime.cs" t="Include" />
+              <e p="RewindTime.cs" t="Include" />
+              <e p="TimeManagement.cs" t="Include" />
+              <e p="TimeTravel.cs" t="Include" />
+            </e>
+            <e p="TimeTravelDevice.cs" t="Include" />
+            <e p="UI" t="Include">
+              <e p="UiManager.cs" t="Include" />
+            </e>
+            <e p="Vehicles" t="Include">
+              <e p="Vehicle.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ProjectVanilla.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_ProjectVanilla.1987103667.00" t="ExcludeRecursive" />
+  </component>
+</project>
